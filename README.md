@@ -9,8 +9,9 @@
 - 🌱 I’m currently learning React JS, JavaScript, TypeScript, HTML, and CSS to name a few 😎
 - 💞️ I’m looking to collaborate on any front-end projects that will help me strengthen my skills and knowledge.
 - 📫 How to reach me...
-  - LinkedIn: [@KenaiEpps](https://www.linkedin.com/in/kenai-epps/)
-  - Email: [Email Me](mailto:k.epps23@gmail.com?subject=GitHub%20Contact)
+  - 💻 LinkedIn: [@KenaiEpps](https://www.linkedin.com/in/kenai-epps/)
+  - 📧 Email: [Email Me](mailto:k.epps23@gmail.com?subject=GitHub%20Contact)
+  - 🌐 Website: [KenaiEpps.com] (https://www.kenaiepps.com)
 <br>
 
 <p align="center"><strong>Languages/Frameworks</p></strong>
