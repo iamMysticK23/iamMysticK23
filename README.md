@@ -11,7 +11,7 @@
 - 📫 How to reach me...
   - 💻 LinkedIn: [@KenaiEpps](https://www.linkedin.com/in/kenai-epps/)
   - 📧 Email: [Email Me](mailto:k.epps23@gmail.com?subject=GitHub%20Contact)
-  - 🌐 Website: <a href="https://www.kenaiepps.com" target="_blank:> KenaiEpps.com</a>
+  - 🌐 Website: <a href="https://www.kenaiepps.com" target="_blank"> KenaiEpps.com</a>
 <br>
 
 <p align="center"><strong>Languages/Frameworks</p></strong>
