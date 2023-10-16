@@ -69,7 +69,9 @@
 <p align="center"><strong>Badges And Stuff</p></strong>
   
 
-<p align="center">[![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=iamMysticK23&show_icons=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamMysticK23&show_icons=true" alt="Your Repository's Stats">
+</div>
 
 
 
