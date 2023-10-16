@@ -2,6 +2,9 @@
 
 <p align="center"><img src="https://media.licdn.com/dms/image/C5616AQHyoeRuyznAog/profile-displaybackgroundimage-shrink_200_800/0/1634013650643?e=2147483647&v=beta&t=tKV6piwJbGR-nOcKKKfvcwbDuk5yQZr-6uyA3m3ax8s" alt="coding logo"></p>
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <p align="center"><strong>About Me:</strong></p>
 
 - 📚 Recent Full Stack Software Engineering Bootcamp Graduate <a href="http://www.codingtemple.com" target="_blank">#CodingTemple</a> | [Check Out My Credentials](https://www.credly.com/users/kenai-epps)
