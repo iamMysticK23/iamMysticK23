@@ -69,7 +69,7 @@
 <p align="center"><strong>Badges And Stuff</p></strong>
   
 
-<p align="center>[![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=iamMysticK23&show_icons=true)
+<p align="center">[![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=iamMysticK23&show_icons=true)
 
 
 
