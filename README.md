@@ -1,9 +1,11 @@
 # <p align="center">👋🏾 Hi, I’m @iamMysticK23! also known as Kenai!</p>
 
 <p align="center"><img src="https://media.licdn.com/dms/image/C5616AQHyoeRuyznAog/profile-displaybackgroundimage-shrink_200_800/0/1634013650643?e=2147483647&v=beta&t=tKV6piwJbGR-nOcKKKfvcwbDuk5yQZr-6uyA3m3ax8s" alt="coding logo"></p>
-
+<br>
 ## <p align="center">😂 Here is a random joke that'll make you laugh!</p>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+</div>
 
 <p align="center"><strong>About Me:</strong></p>
 
