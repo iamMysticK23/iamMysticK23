@@ -67,6 +67,7 @@
 
 <br>
 <p align="center"><strong>Badges And Stuff</p></strong>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=iamMysticK23&show_icons=true)
 <p align="center"><a href="https://www.codewars.com/users/iamMysticK23"><img src="https://www.codewars.com/users/iamMysticK23/badges/large"></p></a>
 
 
