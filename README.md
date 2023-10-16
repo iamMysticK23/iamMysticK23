@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.licdn.com/dms/image/C5616AQHyoeRuyznAog/profile-displaybackgroundimage-shrink_200_800/0/1634013650643?e=2147483647&v=beta&t=tKV6piwJbGR-nOcKKKfvcwbDuk5yQZr-6uyA3m3ax8s" alt="coding logo"></p>
 
-## 😂 Here is a random joke that'll make you laugh!
+## <p align="center">😂 Here is a random joke that'll make you laugh!</p>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <p align="center"><strong>About Me:</strong></p>
