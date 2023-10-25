@@ -75,8 +75,9 @@
   
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamMysticK23&show_icons=true" alt="Your Repository's Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamMysticK23&show_icons=true&bg_color=30,228B22,FAD02E&icon_color=FAD02E&text_color=FFFFFF&title_color=FAD02E" alt="Your Repository's Stats">
 </div>
+
 
 
 
