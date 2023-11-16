@@ -9,7 +9,7 @@
 
 <p align="center"><strong>About Me:</strong></p>
 
-- 📚 Recent Full Stack Software Engineering and Front End Developer Bootcamp Graduate <a href="http://www.codingtemple.com" target="_blank">#CodingTemple</a> | [Check Out My Credentials](https://www.credly.com/users/kenai-epps) | <a href="http://www.scrimba.com" target="_blank">#Scrimba</a> | [Check Out My Credentials](https://drive.google.com/file/d/1_GIT1AsqTeYNITw9p5iQRn8i-Lu-NuAR/view?usp=sharing) 
+- 📚 Recent Full Stack Software Engineering and Front End Developer Bootcamp Graduate <br><a href="http://www.codingtemple.com" target="_blank">#CodingTemple</a> | [Check Out My Credentials](https://www.credly.com/users/kenai-epps) | <br> <a href="http://www.scrimba.com" target="_blank">#Scrimba</a> | [Check Out My Credentials](https://drive.google.com/file/d/1_GIT1AsqTeYNITw9p5iQRn8i-Lu-NuAR/view?usp=sharing) 
 - 👀 I’m interested in becoming a front-end developer!
 - 🌱 I’m currently learning React JS, JavaScript, TypeScript, HTML, and CSS to name a few 😎
 - 💞️ I’m looking to collaborate on any front-end projects that will help me strengthen my skills and knowledge.
